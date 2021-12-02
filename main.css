@@ -1,0 +1,25 @@
+
+.h1-tag{
+    color: red;
+}
+
+#p-tag{
+    color: green;
+}
+
+.ul-tag{
+    color: blue;
+    margin-top: 3vh;
+    font: arial;
+}
+
+.div-main{
+    border-style: double;
+    border-color: blue;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    padding: 20px 0px 0px 100px;
+    width: auto;
+    height: auto;
+    background:lightblue;
+}
